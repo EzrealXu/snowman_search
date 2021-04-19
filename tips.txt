@@ -1,0 +1,5 @@
+1 do not push any snowballs at the corner or edge of walls or obstacles, unless the destination lies here
+2 estimate the distance between each snowballs and the destination
+3 estimate the distance between each snowballs and the robort
+4 observe the distribution of three snowballs and think of the way to push them together by the order of size
+5 you can push the middle ball and the small ball to the big ball first.
